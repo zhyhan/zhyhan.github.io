@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "China"
-title                    : "Zhongyi Han / PhD Student"
+title                    : "Zhongyi Han / Ph.D. Student"
 title_separator          : "-"
 name                     : &name "Zhongyi Han"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zhongyi Han"
   avatar           : "zhongyi.jpg"
-  bio              : "PhD student in School of Software, Shandong University"
+  bio              : "Ph.D. student in School of Software, Shandong University"
   location         : "Jinan, China"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=zhongyi+han"
