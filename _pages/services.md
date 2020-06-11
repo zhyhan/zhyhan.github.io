@@ -20,3 +20,4 @@ redirect_from:
   * Scientific Reports
   * Applied Soft Computing
   * IEEE Access
+  * Informatics in Medicine Unlocked
