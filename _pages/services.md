@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 * Program committee or reviewer for conferences
+  * AAAI 2021
   * CCDM 2020
   * MICCAI 2020
   *	MICCAI 2019
@@ -20,4 +21,5 @@ redirect_from:
   * Scientific Reports
   * Applied Soft Computing
   * IEEE Access
+  * Plos One
   * Informatics in Medicine Unlocked
