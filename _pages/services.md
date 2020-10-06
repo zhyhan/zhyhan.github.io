@@ -14,6 +14,7 @@ redirect_from:
   *	MICCAI 2019
   * MICCAI 2018
 * Reviewer for journals
+  * IEEE Transactions on Pattern Analysis and Machine Intelligence
   * IEEE Transactions on Neural Networks and Learning Systems
   * IEEE Transactions on Medical Imaging
   * Medical Image Analysis
