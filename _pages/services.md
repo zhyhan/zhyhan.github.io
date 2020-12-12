@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 * Program committee or reviewer for conferences
+  * CVPR 2021
+  * ICASSP 2021
   * AAAI 2021
   * CCDM 2020
   * MICCAI 2020
