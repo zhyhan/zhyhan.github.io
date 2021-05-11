@@ -8,17 +8,17 @@ redirect_from:
 ---
 
 * Program committee or reviewer for conferences
+  * CVPR ICCV
   * CVPR 2021
   * ICASSP 2021
   * AAAI 2021
   * CCDM 2020
-  * MICCAI 2020
-  *	MICCAI 2019
-  * MICCAI 2018
+  * MICCAI 2018, 2019, 2020, 2021
 * Reviewer for journals
   * IEEE Transactions on Pattern Analysis and Machine Intelligence
   * IEEE Transactions on Neural Networks and Learning Systems
   * IEEE Transactions on Medical Imaging
+  * IEEE Transactions on Emerging Topics in Computational Intelligence
   * Medical Image Analysis
   * Journal of Intelligence Systems
   * Scientific Reports
