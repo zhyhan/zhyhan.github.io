@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 * Program committee or reviewer for conferences
-  * CVPR ICCV
+  * ICCV 2021
   * CVPR 2021
   * ICASSP 2021
   * AAAI 2021
