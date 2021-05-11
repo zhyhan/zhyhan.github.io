@@ -6,6 +6,8 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+* IPMI Scholarship, 2021
+* National Scholarship, 2020
 * First Class of Academic Scholarship, Shandong University, 2019
 * First Class Scholarship for Excellent Graduate Students, Yifang Pharmaceutical Co., Ltd, 2018
 * Science and Technology Innovation Scholarship, Shandong University of Traditional Chinese Medicine, 2017, 2018
