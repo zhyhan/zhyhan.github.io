@@ -14,6 +14,7 @@ My primary academic interest is developing the theory and algorithm of robust ma
 
 My research principle is "Theory without practice is empty, practice without theory is blind".
 
+
 # News
 - 2022/05/20: 1 paper accepted to KBS.
 - 2022/03/03: 2 papers accepted to CVPR 2022.
@@ -22,6 +23,7 @@ My research principle is "Theory without practice is empty, practice without the
 - 2020/09/25: 1 paper accepted to MedIA.
 - 2020/05/15: 1 paper accepted to TMI.
 - 2020/04/20: 1 paper accepted to IJCAI 2020.
+
 
 # Publications
 ## Journal
@@ -33,6 +35,7 @@ My research principle is "Theory without practice is empty, practice without the
 6.	**Zhongyi Han**, Benzheng Wei, Yuanjie Zheng, Yilong Yin, Kejian Li, Shuo Li, "Breast Cancer Multi-classification from Histopathological Images with Structured Deep Learning Model." Scientific Reports, 2017. （中科院3区，IF=4.379，第一作者）
 7.	Rundong He, **Zhongyi Han**, Yilong Yin, "Towards Safe and Robust Weakly-Supervised Anomaly Detection under Subpopulation Shift." Knowledge-Based Systems, 2022. (中科院1区，IF=8.038，通讯作者)
 8.	王帆，**韩忠义**，尹义龙，“基于伪标签不确定性估计的源域无关鲁棒域自适应.” 软件学报，2021. （CCF-A 中文期刊，通讯作者）
+
 ## Conference
 1. Fan Wang, **Zhongyi Han**, Yongshun Gong, Yilong Yin, "Exploring Domain-Invariant Parameters for Source Free Domain Adaptation." CVPR 2022. (CCF A 会议, 共同一作)
 2. Rundong He, Zhongyi Han, Xiankai Lu, Yilong Yin, "Safe-Student for Safe Deep Semi-Supervised Learning with Unseen-Class Unlabeled Data." CVPR 2022. (CCF A 会议, 共同一作)
@@ -40,6 +43,7 @@ My research principle is "Theory without practice is empty, practice without the
 4. **Zhongyi Han**, Xian-Jin Gui, Chaoran Cui, Yilong Yin, "Towards Accurate and Robust Domain Adaptation under Noisy Environments." IJCAI, 2020. (CCF-A类会议，第一作者)
 5. **Zhongyi Han**, Rundong He, Tianyang Li, Benzheng Wei, Jian Wang, Yilong Yin, "Semi-Supervised Screening of COVID-19 from Positive and Unlabeled Data with Constraint Non-Negative Risk Estimator. " In International Conference on Information Processing in Medical Imaging (IPMI), 2021. (医学图像处理顶会，第一作者)
 6. **Zhongyi Han**, Benzheng Wei, Stephanie Leung, Jonathan Chung, Shuo Li, "Towards Automatic Report Generation in Spine Radiology Using Weakly Supervised Framework". 2018 International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2018. (医学图像处理顶会，第一作者)
+
 
 # Services
 ## Reviewer for journals
@@ -54,6 +58,7 @@ My research principle is "Theory without practice is empty, practice without the
 -	IEEE Access
 -	Plos One
 -	Informatics in Medicine Unlocked
+
 ## Program committee or reviewer for conferences
 -	ECCV 2022
 -	CVPR 2022
