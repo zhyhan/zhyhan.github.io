@@ -29,14 +29,14 @@ My research principle is "Theory without practice is empty, practice without the
 
 # Publications
 ## Journal
-1.	**Zhongyi Han**, Haoliang Sun, Yilong Yin, "Learning Transferable Parameters for Unsupervised Domain Adaptation." IEEE Transactions on Image Processing, 2022.（中科院1区，CCF A类期刊，IF=10.86, 计算机视觉顶刊, 第一作者）
-2.	**Zhongyi Han**, Benzheng Wei, Yanfei Hong, Tianyang Li, Jinyu Cong, Xue Zhu, Haifeng Wei, Wei Zhang, "Accurate Screening of COVID-19 using Attention Based Deep 3D Multiple Instance Learning." IEEE Transactions on Medical Imaging, 2020.（中科院1区，IF=10.084, 医学图像处理顶刊, 第一作者）
-3.	**Zhongyi Han**, Benzheng Wei, Xiaoming Xi, Bo Chen, Yilong Yin, Shuo Li, "Unifying Neural Learning and Symbolic Reasoning for Spinal Medical Report Generation." Medical Image Analysis, 2020.（中科院1区，IF=8.545, 医学图像处理顶刊，第一作者）
-4.	**Zhongyi Han**, Benzheng Wei, Ashley Mercado, Stephanie Leung, Shuo Li, "Spine-GAN: Semantic Segmentation of Multiple Spinal Structures." Medical Image Analysis, 2018. （中科院1区，IF=8.545, 医学图像处理顶刊，第一作者）
-5.	**Zhongyi Han**, Hongbo Wu, Benzheng Wei, Yilong Yin, Shuo Li, "Recursive Narrative Alignment for Movie Narrating. " Science China Information Sciences, 2020.（中科院2区，IF=4.380, 第一作者）
-6.	**Zhongyi Han**, Benzheng Wei, Stephanie Leung, Ilanit Ben Nachum, David Laidley, Shuo Li, "Automated Pathogenesis-Based Diagnosis of Lumbar Neural Foraminal Stenosis via Deep Multiscale Multitask Learning." Neuroinformatics, 2018.（中科院2区，IF=4.085, 神经信息学顶刊，第一作者）
-7.	**Zhongyi Han**, Benzheng Wei, Yuanjie Zheng, Yilong Yin, Kejian Li, Shuo Li, "Breast Cancer Multi-classification from Histopathological Images with Structured Deep Learning Model." Scientific Reports, 2017. （中科院3区，IF=4.379，第一作者）
-8.	Rundong He, **Zhongyi Han**, Yilong Yin, "Towards Safe and Robust Weakly-Supervised Anomaly Detection under Subpopulation Shift." Knowledge-Based Systems, 2022. (中科院1区，IF=8.038，通讯作者)
+1.	**Zhongyi Han**, Haoliang Sun, Yilong Yin, "Learning Transferable Parameters for Unsupervised Domain Adaptation." IEEE Transactions on Image Processing, 2022.（中科院1区，CCF A类期刊，IF=11.04, 计算机视觉顶刊, 第一作者）
+2.	**Zhongyi Han**, Benzheng Wei, Yanfei Hong, Tianyang Li, Jinyu Cong, Xue Zhu, Haifeng Wei, Wei Zhang, "Accurate Screening of COVID-19 using Attention Based Deep 3D Multiple Instance Learning." IEEE Transactions on Medical Imaging, 2020.（中科院1区，IF=11.04, 医学图像处理顶刊, 第一作者）
+3.	**Zhongyi Han**, Benzheng Wei, Xiaoming Xi, Bo Chen, Yilong Yin, Shuo Li, "Unifying Neural Learning and Symbolic Reasoning for Spinal Medical Report Generation." Medical Image Analysis, 2020.（中科院1区，IF=13.83 医学图像处理顶刊，第一作者）
+4.	**Zhongyi Han**, Benzheng Wei, Ashley Mercado, Stephanie Leung, Shuo Li, "Spine-GAN: Semantic Segmentation of Multiple Spinal Structures." Medical Image Analysis, 2018. （中科院1区，IF=13.83, 医学图像处理顶刊，第一作者）
+5.	**Zhongyi Han**, Hongbo Wu, Benzheng Wei, Yilong Yin, Shuo Li, "Recursive Narrative Alignment for Movie Narrating. " Science China Information Sciences, 2020.（中科院2区，IF=7.28, 第一作者）
+6.	**Zhongyi Han**, Benzheng Wei, Stephanie Leung, Ilanit Ben Nachum, David Laidley, Shuo Li, "Automated Pathogenesis-Based Diagnosis of Lumbar Neural Foraminal Stenosis via Deep Multiscale Multitask Learning." Neuroinformatics, 2018.（中科院2区，IF=2.86, 神经信息学顶刊，第一作者）
+7.	**Zhongyi Han**, Benzheng Wei, Yuanjie Zheng, Yilong Yin, Kejian Li, Shuo Li, "Breast Cancer Multi-classification from Histopathological Images with Structured Deep Learning Model." Scientific Reports, 2017. （中科院3区，IF=4.99，第一作者）
+8.	Rundong He, **Zhongyi Han**, Yilong Yin, "Towards Safe and Robust Weakly-Supervised Anomaly Detection under Subpopulation Shift." Knowledge-Based Systems, 2022. (中科院1区，IF=8.14，通讯作者)
 9.	王帆，**韩忠义**，尹义龙，“基于伪标签不确定性估计的源域无关鲁棒域自适应.” 软件学报，2021. （CCF-A 中文期刊，通讯作者）
 
 ## Conference
