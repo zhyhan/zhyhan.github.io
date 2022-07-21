@@ -14,6 +14,7 @@ My primary academic interest is developing the theory and algorithm of robust ma
 
 My research principle is "Theory without practice is empty, practice without theory is blind".
 
+**Looking for full-time job opportunities!**
 
 # News
 - 2022/07/05: 1 paper accepted to Science China Information Sciences.
