@@ -69,8 +69,8 @@ My research principle is "Theory without practice is empty, practice without the
 ## Program committee or reviewer for conferences
 -	ECCV 2022
 -	CVPR 2022
--	AAAI 2021
+-	AAAI 2021-2023
 -	ICCV 2021
 -	ICASSP 2021
 -	CCDM 2020
--	MICCAI 2018, 2019, 2020, 2021, 2022
+-	MICCAI 2018-2022
