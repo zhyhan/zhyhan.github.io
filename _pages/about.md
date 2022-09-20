@@ -17,8 +17,9 @@ My research principle is "Theory without practice is empty, practice without the
 **I expect to graduate in December 2022 and am looking for a full time job opportunity!**
 
 # News
+- 2022/09/17: 1 paper accepted to ACML 2022.
 - 2022/07/05: 1 paper accepted to Science China Information Sciences.
-- 2022/06/30: 1 paper accepted to ACMMM.
+- 2022/06/30: 1 paper accepted to ACMMM 2022.
 - 2022/06/13: 1 paper accepted to TIP.
 - 2022/05/20: 1 paper accepted to KBS.
 - 2022/03/03: 2 papers accepted to CVPR 2022.
@@ -48,8 +49,9 @@ My research principle is "Theory without practice is empty, practice without the
 3. Rundong He, **Zhongyi Han**, Xiankai Lu, Yilong Yin, "Safe-Student for Safe Deep Semi-Supervised Learning with Unseen-Class Unlabeled Data." CVPR 2022. (CCF A 会议, 共同一作)
 4. Rundong He, **Zhongyi Han**, Yang Yang, Yilong Yin, "Not All Parameters Should be Treated Equally: Deep Safe Semi-Supervised Learning under Class Distribution      Mismatch." AAAI 2022. (CCF A 会议，通讯作者)
 5. **Zhongyi Han**, Xian-Jin Gui, Chaoran Cui, Yilong Yin, "Towards Accurate and Robust Domain Adaptation under Noisy Environments." IJCAI, 2020. (CCF-A类会议，第一作者)
-6. **Zhongyi Han**, Rundong He, Tianyang Li, Benzheng Wei, Jian Wang, Yilong Yin, "Semi-Supervised Screening of COVID-19 from Positive and Unlabeled Data with Constraint Non-Negative Risk Estimator. " In International Conference on Information Processing in Medical Imaging (IPMI), 2021. (医学图像处理顶会，第一作者)
-7. **Zhongyi Han**, Benzheng Wei, Stephanie Leung, Jonathan Chung, Shuo Li, "Towards Automatic Report Generation in Spine Radiology Using Weakly Supervised Framework". 2018 International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2018. (医学图像处理顶会，第一作者)
+6. **Zhongyi Han**, Wan Su, Yilong Yin, "Universal Domain Adaptation by Threshold-Free Uncertainty Ensemble Learning." ACML, 2022. (CCF-C类会议，第一作者)
+7. **Zhongyi Han**, Rundong He, Tianyang Li, Benzheng Wei, Jian Wang, Yilong Yin, "Semi-Supervised Screening of COVID-19 from Positive and Unlabeled Data with Constraint Non-Negative Risk Estimator. " In International Conference on Information Processing in Medical Imaging (IPMI), 2021. (医学图像处理顶会，第一作者)
+8. **Zhongyi Han**, Benzheng Wei, Stephanie Leung, Jonathan Chung, Shuo Li, "Towards Automatic Report Generation in Spine Radiology Using Weakly Supervised Framework". 2018 International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2018. (医学图像处理顶会，第一作者)
 
 
 # Services
