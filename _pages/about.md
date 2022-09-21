@@ -14,7 +14,7 @@ My primary academic interest is developing the theory and algorithm of robust ma
 
 My research principle is "Theory without practice is empty, practice without theory is blind".
 
-**I expect to graduate in December 2022 and am looking for a full time job opportunity!**
+**I expect to graduate in June 2023 and am looking for a full time job opportunity!**
 
 # News
 - 2022/09/17: 1 paper accepted to ACML 2022.
