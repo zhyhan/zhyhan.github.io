@@ -17,7 +17,6 @@ My research principle is "Theory without practice is empty, practice without the
 **I expect to graduate in 2023 and am looking for a full time job opportunity!**
 
 # News
-- 2022/11/04: I am offered a scholarship to join in OAMLS: [Online Asian Machine Learning School](https://www.acml-conf.org/2022/oamls.html) 
 - 2022/10/13: 1 paper accepted to TPAMI.
 - 2022/09/17: 1 paper accepted to ACML 2022.
 - 2022/07/05: 1 paper accepted to Science China Information Sciences.
