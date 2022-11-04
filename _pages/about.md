@@ -17,6 +17,7 @@ My research principle is "Theory without practice is empty, practice without the
 **I expect to graduate in 2023 and am looking for a full time job opportunity!**
 
 # News
+- 2022/11/04: I am offered a scholarship to join in OAMLS: [Online Asian Machine Learning School](https://www.acml-conf.org/2022/oamls.html) 
 - 2022/10/13: 1 paper accepted to TPAMI.
 - 2022/09/17: 1 paper accepted to ACML 2022.
 - 2022/07/05: 1 paper accepted to Science China Information Sciences.
@@ -31,7 +32,8 @@ My research principle is "Theory without practice is empty, practice without the
 - 2020/04/20: 1 paper accepted to IJCAI 2020.
 
 
-# Publications (* Corresponding author, # Co-first author)
+# Publications
+
 ## Journal
 1.	**Zhongyi Han**, Xian-Jin Gui, Haoliang Sun, Yilong Yin, Shuo Li, "Towards Accurate and Robust Domain Adaptation Under Multiple Noisy Environments." IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022
 2.	**Zhongyi Han**, Haoliang Sun, Yilong Yin, "Learning Transferable Parameters for Unsupervised Domain Adaptation." IEEE Transactions on Image Processing, 2022
@@ -55,6 +57,7 @@ My research principle is "Theory without practice is empty, practice without the
 7. **Zhongyi Han**, Rundong He, Tianyang Li, Benzheng Wei, Jian Wang, Yilong Yin, "Semi-Supervised Screening of COVID-19 from Positive and Unlabeled Data with Constraint Non-Negative Risk Estimator. " IPMI, 2021
 8. **Zhongyi Han**, Benzheng Wei, Stephanie Leung, Jonathan Chung, Shuo Li, "Towards Automatic Report Generation in Spine Radiology Using Weakly Supervised Framework". MICCAI, 2018
 
+Note: * denotes the corresponding author, # denotes the co-first author
 
 # Services
 ## Reviewer for journals
@@ -72,7 +75,7 @@ My research principle is "Theory without practice is empty, practice without the
 
 ## Program committee or reviewer for conferences
 -	ECCV 2022
--	CVPR 2022
+-	CVPR 2022, 2023
 -	AAAI 2021-2023
 -	ICCV 2021
 -	ICASSP 2021
