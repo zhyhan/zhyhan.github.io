@@ -67,6 +67,7 @@ Note: * denotes the corresponding author, # denotes the co-first author
 -	IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 -	IEEE Transactions on Medical Imaging (TMI)
 -	Medical Image Analysis
+-	IEEE Journal of Biomedical and Health Informatics
 -	Knowledge Base Systems
 -	Journal of Intelligence Systems
 -	Scientific Reports
