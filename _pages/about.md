@@ -14,8 +14,6 @@ My primary academic interest is developing the theory and algorithm of robust ma
 
 My research principle is "Theory without practice is empty, practice without theory is blind".
 
-**I expect to graduate in 2023 and am looking for a full time job opportunity!**
-
 # News
 - 2022/11/19: 1 paper accepted to AAAI 2023.
 - 2022/10/01: 1 paper accepted to TPAMI.
@@ -33,7 +31,6 @@ My research principle is "Theory without practice is empty, practice without the
 
 
 # Publications
-Note: * denotes the corresponding author, # denotes the co-first author
 
 ## Journal
 1.	**Zhongyi Han**, Xian-Jin Gui, Haoliang Sun, Yilong Yin, Shuo Li, "Towards Accurate and Robust Domain Adaptation Under Multiple Noisy Environments." IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022
@@ -56,9 +53,10 @@ Note: * denotes the corresponding author, # denotes the co-first author
 5. Rundong He, **Zhongyi Han**<sup>*</sup>, Yang Yang, Yilong Yin, "Not All Parameters Should be Treated Equally: Deep Safe Semi-Supervised Learning under Class Distribution Mismatch." AAAI, 2022
 6. **Zhongyi Han**, Xian-Jin Gui, Chaoran Cui, Yilong Yin, "Towards Accurate and Robust Domain Adaptation under Noisy Environments." IJCAI, 2020
 7. **Zhongyi Han**, Wan Su, Rundong He, Yilong Yin, "Universal Domain Adaptation by Threshold-Free Uncertainty Ensemble Learning." ACML, 2022
-8. **Zhongyi Han**, Rundong He, Tianyang Li, Benzheng Wei, Jian Wang, Yilong Yin, "Semi-Supervised Screening of COVID-19 from Positive and Unlabeled Data with Constraint Non-Negative Risk Estimator. " IPMI, 2021
-9. **Zhongyi Han**, Benzheng Wei, Stephanie Leung, Jonathan Chung, Shuo Li, "Towards Automatic Report Generation in Spine Radiology Using Weakly Supervised Framework". MICCAI, 2018
+8. **Zhongyi Han**, Rundong He, Tianyang Li, Benzheng Wei, Jian Wang, Yilong Yin, "Semi-Supervised Screening of COVID-19 from Positive and Unlabeled Data with Constraint Non-Negative Risk Estimator." IPMI, 2021
+9. **Zhongyi Han**, Benzheng Wei, Stephanie Leung, Jonathan Chung, Shuo Li, "Towards Automatic Report Generation in Spine Radiology Using Weakly Supervised Framework." MICCAI, 2018
 
+Note: * denotes the corresponding author, # denotes the co-first author
 
 
 # Services
@@ -77,6 +75,7 @@ Note: * denotes the corresponding author, # denotes the co-first author
 -	Informatics in Medicine Unlocked
 
 ## Program committee or reviewer for conferences
+-	ICML 2023
 -	ECCV 2022
 -	CVPR 2022-2023
 -	AAAI 2021-2023
