@@ -62,6 +62,7 @@ Note: * denotes the corresponding author, # denotes the co-first author
 # Services
 ## Reviewer for journals
 -	IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+-	IEEE Transactions on Image Processing
 -	IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 -	IEEE Transactions on Medical Imaging (TMI)
 -	Medical Image Analysis
