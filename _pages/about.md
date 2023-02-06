@@ -76,11 +76,12 @@ Note: * denotes the corresponding author, # denotes the co-first author
 -	Informatics in Medicine Unlocked
 
 ## Program committee or reviewer for conferences
+-	UAI 2023
 -	ICML 2023
 -	ECCV 2022
 -	CVPR 2022-2023
 -	AAAI 2021-2023
--	ICCV 2021
+-	ICCV 2021、2023
 -	ICASSP 2021
 -	CCDM 2020
 -	MICCAI 2018-2022
