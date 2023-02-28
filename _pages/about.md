@@ -15,6 +15,7 @@ My primary academic interest is developing the theory and algorithm of robust ma
 My research principle is "Theory without practice is empty, practice without theory is blind".
 
 # News
+- 2023/02/28: 1 paper accepted to CVPR 2023.
 - 2022/11/19: 1 paper accepted to AAAI 2023.
 - 2022/10/01: 1 paper accepted to TPAMI.
 - 2022/09/17: 1 paper accepted to ACML 2022.
