@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-I am a Ph.D. student (since 2019) in the School of Sofware at Shandong University, advised by [Prof. Yilong Yin](http://faculty.sdu.edu.cn/ylyin).
+I am currently a Postdoctoral Research Fellow in MBZUAI, working with [Prof. Tongliang Liu](https://tongliang-liu.github.io/) and [Prof. Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/). Prior to that, I received my Ph.D. degree at Shandong University in 2023 (early graduation), advised by [Prof. Yilong Yin](http://faculty.sdu.edu.cn/ylyin).
 
 My primary academic interest is developing the theory and algorithm of robust machine learning. I also devote to promoting the development of AI-empowered healthcare, especially for applying cutting-edge and robust algorithms to assist radiologists in achieving fast and light medical image analysis. My ultimate academic goal is to improve the robustness and generalization ability of machine learning in non-stationary and imperfect environments, make machine learning can easily cope with various abnormal and complex environmental changes, so as to realize human-trusted, large-scale popularized intelligent systems.
 
@@ -47,15 +46,16 @@ My research principle is "Theory without practice is empty, practice without the
 11.	Fan Wang, **Zhongyi han**<sup>*</sup>，Yilong Yin, "Source Free Robust Domain Adaptation Based on Pseudo Label Uncertainty Estimation." Journal of Software, 2022
 
 ## Conference
-1.  **Zhongyi Han**, Zhiyan Zhang, Fan Wang, Rundong He, Xiaoming Xi, Yilong Yin, "Discriminability and Transferability Estimation: A Bayesian Source Importance Estimation Approach for Multi-Source-Free Domain Adaptation." AAAI, 2023
-2. Rundong He, **Zhongyi Han**<sup>*</sup>, Xiankai Lu, Yilong Yin, "RONF: Reliable Outlier Synthesis under Noisy Feature Space for Out-of-Distribution Detection." ACMMM, 2022
-3. Fan Wang<sup>#</sup>, **Zhongyi Han**<sup>#</sup>, Yongshun Gong, Yilong Yin, "Exploring Domain-Invariant Parameters for Source Free Domain Adaptation." CVPR, 2022
-4. Rundong He<sup>#</sup>, **Zhongyi Han**<sup>#</sup>, Xiankai Lu, Yilong Yin, "Safe-Student for Safe Deep Semi-Supervised Learning with Unseen-Class Unlabeled Data." CVPR, 2022
-5. Rundong He, **Zhongyi Han**<sup>*</sup>, Yang Yang, Yilong Yin, "Not All Parameters Should be Treated Equally: Deep Safe Semi-Supervised Learning under Class Distribution Mismatch." AAAI, 2022
-6. **Zhongyi Han**, Xian-Jin Gui, Chaoran Cui, Yilong Yin, "Towards Accurate and Robust Domain Adaptation under Noisy Environments." IJCAI, 2020
-7. **Zhongyi Han**, Wan Su, Rundong He, Yilong Yin, "Universal Domain Adaptation by Threshold-Free Uncertainty Ensemble Learning." ACML, 2022
-8. **Zhongyi Han**, Rundong He, Tianyang Li, Benzheng Wei, Jian Wang, Yilong Yin, "Semi-Supervised Screening of COVID-19 from Positive and Unlabeled Data with Constraint Non-Negative Risk Estimator." IPMI, 2021
-9. **Zhongyi Han**, Benzheng Wei, Stephanie Leung, Jonathan Chung, Shuo Li, "Towards Automatic Report Generation in Spine Radiology Using Weakly Supervised Framework." MICCAI, 2018
+1.  Fan Wang, **Zhongyi Han**<sup>*</sup>, Zhiyan Zhang, Rundong He, Yilong Yin, "MHPL: Minimum Happy Points Learning for Active Source Free Domain Adaptation." CVPR, 2023
+2.  **Zhongyi Han**, Zhiyan Zhang, Fan Wang, Rundong He, Xiaoming Xi, Yilong Yin, "Discriminability and Transferability Estimation: A Bayesian Source Importance Estimation Approach for Multi-Source-Free Domain Adaptation." AAAI, 2023
+3. Rundong He, **Zhongyi Han**<sup>*</sup>, Xiankai Lu, Yilong Yin, "RONF: Reliable Outlier Synthesis under Noisy Feature Space for Out-of-Distribution Detection." ACMMM, 2022
+4. Fan Wang<sup>#</sup>, **Zhongyi Han**<sup>#</sup>, Yongshun Gong, Yilong Yin, "Exploring Domain-Invariant Parameters for Source Free Domain Adaptation." CVPR, 2022
+5. Rundong He<sup>#</sup>, **Zhongyi Han**<sup>#</sup>, Xiankai Lu, Yilong Yin, "Safe-Student for Safe Deep Semi-Supervised Learning with Unseen-Class Unlabeled Data." CVPR, 2022
+6. Rundong He, **Zhongyi Han**<sup>*</sup>, Yang Yang, Yilong Yin, "Not All Parameters Should be Treated Equally: Deep Safe Semi-Supervised Learning under Class Distribution Mismatch." AAAI, 2022
+7. **Zhongyi Han**, Xian-Jin Gui, Chaoran Cui, Yilong Yin, "Towards Accurate and Robust Domain Adaptation under Noisy Environments." IJCAI, 2020
+8. **Zhongyi Han**, Wan Su, Rundong He, Yilong Yin, "Universal Domain Adaptation by Threshold-Free Uncertainty Ensemble Learning." ACML, 2022
+9. **Zhongyi Han**, Rundong He, Tianyang Li, Benzheng Wei, Jian Wang, Yilong Yin, "Semi-Supervised Screening of COVID-19 from Positive and Unlabeled Data with Constraint Non-Negative Risk Estimator." IPMI, 2021
+10. **Zhongyi Han**, Benzheng Wei, Stephanie Leung, Jonathan Chung, Shuo Li, "Towards Automatic Report Generation in Spine Radiology Using Weakly Supervised Framework." MICCAI, 2018
 
 Note: * denotes the corresponding author, # denotes the co-first author
 
@@ -63,12 +63,12 @@ Note: * denotes the corresponding author, # denotes the co-first author
 # Services
 ## Reviewer for journals
 -	IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
--	IEEE Transactions on Image Processing
+-	IEEE Transactions on Image Processing (TIP)
 -	IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 -	IEEE Transactions on Medical Imaging (TMI)
--	Medical Image Analysis
--	IEEE Journal of Biomedical and Health Informatics
--	Knowledge Base Systems
+-	Medical Image Analysis (MedIA)
+-	IEEE Journal of Biomedical and Health Informatics (JBHI)
+-	Knowledge Base Systems (KBS)
 -	Journal of Intelligence Systems
 -	Scientific Reports
 -	Applied Soft Computing
@@ -85,4 +85,4 @@ Note: * denotes the corresponding author, # denotes the co-first author
 -	ICCV 2021、2023
 -	ICASSP 2021
 -	CCDM 2020
--	MICCAI 2018-2022
+-	MICCAI 2018-2023
