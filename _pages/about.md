@@ -77,6 +77,7 @@ Note: * denotes the corresponding author, # denotes the co-first author
 -	Informatics in Medicine Unlocked
 
 ## Program committee or reviewer for conferences
+-	NeurIPS 2023
 -	UAI 2023
 -	ICML 2023
 -	ECCV 2022
