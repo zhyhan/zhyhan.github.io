@@ -14,6 +14,8 @@ My primary academic interest is developing the theory and algorithm of robust ma
 My research principle is "Theory without practice is empty, practice without theory is blind".
 
 # News
+- 2023/05/17: 1 paper accepted to TKDE.
+- 2023/05/12: 1 paper accepted to Pattern Recognition.
 - 2023/02/28: 1 paper accepted to CVPR 2023.
 - 2022/11/19: 1 paper accepted to AAAI 2023.
 - 2022/10/01: 1 paper accepted to TPAMI.
@@ -42,8 +44,10 @@ My research principle is "Theory without practice is empty, practice without the
 7.	**Zhongyi Han**, Hongbo Wu, Benzheng Wei, Yilong Yin, Shuo Li, "Recursive Narrative Alignment for Movie Narrating." Science China Information Sciences, 2020
 8.	**Zhongyi Han**, Benzheng Wei, Stephanie Leung, Ilanit Ben Nachum, David Laidley, Shuo Li, "Automated Pathogenesis-Based Diagnosis of Lumbar Neural Foraminal Stenosis via Deep Multiscale Multitask Learning." Neuroinformatics, 2018
 9.	**Zhongyi Han**, Benzheng Wei, Yuanjie Zheng, Yilong Yin, Kejian Li, Shuo Li, "Breast Cancer Multi-classification from Histopathological Images with Structured Deep Learning Model." Scientific Reports, 2017
-10.	Rundong He, **Zhongyi Han**<sup>*</sup>, Yilong Yin, "Towards Safe and Robust Weakly-Supervised Anomaly Detection under Subpopulation Shift." Knowledge-Based Systems, 2022.
-11.	Fan Wang, **Zhongyi han**<sup>*</sup>，Yilong Yin, "Source Free Robust Domain Adaptation Based on Pseudo Label Uncertainty Estimation." Journal of Software, 2022
+10.	Rundong He, **Zhongyi Han**<sup>*</sup>, Xiankai Lu, Yilong Yin, "SAFER-STUDENT for Safe Deep Semi-Supervised Learning with Unseen-Class Unlabeled Data." IEEE Transactions on Knowledge and Data Engineering, 2023.
+11.	Wan Su, **Zhongyi Han**<sup>*</sup>, Rundong He, Benzheng Wei, Xueying He, Yilong Yin, "Neighborhood-based Credibility Anchor Learning for Universal Domain Adaptation." Pattern Recognition, 2023.
+12.	Rundong He, **Zhongyi Han**<sup>*</sup>, Yilong Yin, "Towards Safe and Robust Weakly-Supervised Anomaly Detection under Subpopulation Shift." Knowledge-Based Systems, 2022.
+13.	Fan Wang, **Zhongyi han**<sup>*</sup>，Yilong Yin, "Source Free Robust Domain Adaptation Based on Pseudo Label Uncertainty Estimation." Journal of Software, 2022
 
 ## Conference
 1.  Fan Wang, **Zhongyi Han**<sup>*</sup>, Zhiyan Zhang, Rundong He, Yilong Yin, "MHPL: Minimum Happy Points Learning for Active Source Free Domain Adaptation." CVPR, 2023
@@ -67,14 +71,8 @@ Note: * denotes the corresponding author, # denotes the co-first author
 -	IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 -	IEEE Transactions on Medical Imaging (TMI)
 -	Medical Image Analysis (MedIA)
+-	Neural Networks
 -	IEEE Journal of Biomedical and Health Informatics (JBHI)
--	Knowledge Base Systems (KBS)
--	Journal of Intelligence Systems
--	Scientific Reports
--	Applied Soft Computing
--	IEEE Access
--	Plos One
--	Informatics in Medicine Unlocked
 
 ## Program committee or reviewer for conferences
 -	NeurIPS 2023
