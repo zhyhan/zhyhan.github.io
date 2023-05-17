@@ -47,7 +47,7 @@ My research principle is "Theory without practice is empty, practice without the
 10.	Rundong He, **Zhongyi Han**<sup>*</sup>, Xiankai Lu, Yilong Yin, "SAFER-STUDENT for Safe Deep Semi-Supervised Learning with Unseen-Class Unlabeled Data." IEEE Transactions on Knowledge and Data Engineering, 2023.
 11.	Wan Su, **Zhongyi Han**<sup>*</sup>, Rundong He, Benzheng Wei, Xueying He, Yilong Yin, "Neighborhood-based Credibility Anchor Learning for Universal Domain Adaptation." Pattern Recognition, 2023.
 12.	Rundong He, **Zhongyi Han**<sup>*</sup>, Yilong Yin, "Towards Safe and Robust Weakly-Supervised Anomaly Detection under Subpopulation Shift." Knowledge-Based Systems, 2022.
-13.	Fan Wang, **Zhongyi han**<sup>*</sup>，Yilong Yin, "Source Free Robust Domain Adaptation Based on Pseudo Label Uncertainty Estimation." Journal of Software, 2022
+13.	Fan Wang, **Zhongyi Han**<sup>*</sup>，Yilong Yin, "Source Free Robust Domain Adaptation Based on Pseudo Label Uncertainty Estimation." Journal of Software, 2022
 
 ## Conference
 1.  Fan Wang, **Zhongyi Han**<sup>*</sup>, Zhiyan Zhang, Rundong He, Yilong Yin, "MHPL: Minimum Happy Points Learning for Active Source Free Domain Adaptation." CVPR, 2023
