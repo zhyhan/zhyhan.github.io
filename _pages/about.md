@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Postdoctoral Research Fellow in MBZUAI, working with [Prof. Tongliang Liu](https://tongliang-liu.github.io/) and [Prof. Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/). Prior to that, I received my Ph.D. degree at Shandong University in 2023 (early graduation), advised by [Prof. Yilong Yin](http://faculty.sdu.edu.cn/ylyin).
+I am a postdoctoral research fellow at Mohamed bin Zayed University of Artificial Intelligence and Carnegie Mellon University, working with [Prof. Tongliang Liu](https://tongliang-liu.github.io/) and [Prof. Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/). Prior to that, I received my Ph.D. degree at Shandong University in 2023 (early graduation), advised by [Prof. Yilong Yin](http://faculty.sdu.edu.cn/ylyin).
 
 My primary academic interest is developing the theory and algorithm of robust machine learning. I also devote to promoting the development of AI-empowered healthcare, especially for applying cutting-edge and robust algorithms to assist radiologists in achieving fast and light medical image analysis. My ultimate academic goal is to improve the robustness and generalization ability of machine learning in non-stationary and imperfect environments, make machine learning can easily cope with various abnormal and complex environmental changes, so as to realize human-trusted, large-scale popularized intelligent systems.
 
