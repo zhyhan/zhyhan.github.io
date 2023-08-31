@@ -9,12 +9,10 @@ redirect_from:
 ---
 I am a postdoctoral research fellow at Mohamed bin Zayed University of Artificial Intelligence and Carnegie Mellon University, working with [Prof. Tongliang Liu](https://tongliang-liu.github.io/) and [Prof. Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/). Prior to that, I received my Ph.D. degree at Shandong University in 2023 (early graduation), advised by [Prof. Yilong Yin](http://faculty.sdu.edu.cn/ylyin).
 
-My primary academic interest is developing the theory and algorithm of robust machine learning. I also devote to promoting the development of AI-empowered healthcare, especially for applying cutting-edge and robust algorithms to assist radiologists in achieving fast and light medical image analysis. My ultimate academic goal is to improve the robustness and generalization ability of machine learning in non-stationary and imperfect environments, make machine learning can easily cope with various abnormal and complex environmental changes, so as to realize human-trusted, large-scale popularized intelligent systems.
-
-My research principle is "Theory without practice is empty, practice without theory is blind".
+My primary academic interest is developing the theory and algorithm of robust machine learning. I am also devoted to promoting the development of AI-empowered healthcare, especially in applying cutting-edge and robust algorithms to assist radiologists in achieving fast and light medical image analysis. My ultimate academic goal is to improve the robustness and generalization ability of machine learning in non-stationary and imperfect environments to make machine learning easily cope with various abnormal and complex environmental changes so as to realize human-trusted, large-scale popularized intelligent systems.
 
 # News
-- 2023/07/26: 2 papers accepted to ACMMM 2022.
+- 2023/07/26: 2 papers accepted to ACM MM 2022.
 - 2023/05/17: 1 paper accepted to TKDE.
 - 2023/05/12: 1 paper accepted to Pattern Recognition.
 - 2023/02/28: 1 paper accepted to CVPR 2023.
@@ -22,7 +20,7 @@ My research principle is "Theory without practice is empty, practice without the
 - 2022/10/01: 1 paper accepted to TPAMI.
 - 2022/09/17: 1 paper accepted to ACML 2022.
 - 2022/07/05: 1 paper accepted to Science China Information Sciences.
-- 2022/06/30: 1 paper (oral) accepted to ACMMM 2022.
+- 2022/06/30: 1 paper (oral) accepted to ACM MM 2022.
 - 2022/06/13: 1 paper accepted to TIP.
 - 2022/05/20: 1 paper accepted to KBS.
 - 2022/03/03: 2 papers accepted to CVPR 2022.
@@ -48,12 +46,12 @@ My research principle is "Theory without practice is empty, practice without the
 10.	Rundong He, **Zhongyi Han**<sup>*</sup>, Xiankai Lu, Yilong Yin, "SAFER-STUDENT for Safe Deep Semi-Supervised Learning with Unseen-Class Unlabeled Data." IEEE Transactions on Knowledge and Data Engineering, 2023.
 11.	Wan Su, **Zhongyi Han**<sup>*</sup>, Rundong He, Benzheng Wei, Xueying He, Yilong Yin, "Neighborhood-based Credibility Anchor Learning for Universal Domain Adaptation." Pattern Recognition, 2023.
 12.	Rundong He, **Zhongyi Han**<sup>*</sup>, Yilong Yin, "Towards Safe and Robust Weakly-Supervised Anomaly Detection under Subpopulation Shift." Knowledge-Based Systems, 2022.
-13.	Fan Wang, **Zhongyi Han**<sup>*</sup>，Yilong Yin, "Source Free Robust Domain Adaptation Based on Pseudo Label Uncertainty Estimation." Journal of Software, 2022
+13.	Fan Wang, **Zhongyi Han**<sup>*</sup>, Yilong Yin, "Source Free Robust Domain Adaptation Based on Pseudo Label Uncertainty Estimation." Journal of Software, 2022
 
 ## Conference
 1.  Fan Wang, **Zhongyi Han**<sup>*</sup>, Zhiyan Zhang, Rundong He, Yilong Yin, "MHPL: Minimum Happy Points Learning for Active Source Free Domain Adaptation." CVPR, 2023
 2.  **Zhongyi Han**, Zhiyan Zhang, Fan Wang, Rundong He, Xiaoming Xi, Yilong Yin, "Discriminability and Transferability Estimation: A Bayesian Source Importance Estimation Approach for Multi-Source-Free Domain Adaptation." AAAI, 2023
-3. Rundong He, **Zhongyi Han**<sup>*</sup>, Xiankai Lu, Yilong Yin, "RONF: Reliable Outlier Synthesis under Noisy Feature Space for Out-of-Distribution Detection." ACMMM, 2022
+3. Rundong He, **Zhongyi Han**<sup>*</sup>, Xiankai Lu, Yilong Yin, "RONF: Reliable Outlier Synthesis under Noisy Feature Space for Out-of-Distribution Detection." ACM MM, 2022
 4. Fan Wang<sup>#</sup>, **Zhongyi Han**<sup>#</sup>, Yongshun Gong, Yilong Yin, "Exploring Domain-Invariant Parameters for Source Free Domain Adaptation." CVPR, 2022
 5. Rundong He<sup>#</sup>, **Zhongyi Han**<sup>#</sup>, Xiankai Lu, Yilong Yin, "Safe-Student for Safe Deep Semi-Supervised Learning with Unseen-Class Unlabeled Data." CVPR, 2022
 6. Rundong He, **Zhongyi Han**<sup>*</sup>, Yang Yang, Yilong Yin, "Not All Parameters Should be Treated Equally: Deep Safe Semi-Supervised Learning under Class Distribution Mismatch." AAAI, 2022
@@ -72,17 +70,18 @@ Note: * denotes the corresponding author, # denotes the co-first author
 -	IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 -	IEEE Transactions on Medical Imaging (TMI)
 -	Medical Image Analysis (MedIA)
+-	Artificial Intelligence Review
 -	Neural Networks
 -	IEEE Journal of Biomedical and Health Informatics (JBHI)
 
 ## Program committee or reviewer for conferences
 -	NeurIPS 2023
--	UAI 2023
 -	ICML 2023
--	ECCV 2022
+-	ICLR 2023
+-	UAI 2023
 -	CVPR 2022-2023
+-	ICCV 2021-2023
+-	ECCV 2022
 -	AAAI 2021-2023
--	ICCV 2021、2023
--	ICASSP 2021
--	CCDM 2020
+-	MM 2023
 -	MICCAI 2018-2023
