@@ -71,6 +71,7 @@ Note: * denotes the corresponding author, # denotes the co-first author
 -	IEEE Transactions on Medical Imaging (TMI)
 -	Medical Image Analysis (MedIA)
 -	Artificial Intelligence Review
+-	ACM Computing Surveys
 -	Neural Networks
 -	IEEE Journal of Biomedical and Health Informatics (JBHI)
 
