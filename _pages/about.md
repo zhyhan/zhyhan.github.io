@@ -12,6 +12,7 @@ I am a postdoctoral research fellow at Mohamed bin Zayed University of Artificia
 My primary academic interest is developing the theory and algorithm of robust machine learning. I am also devoted to promoting the development of AI-empowered healthcare, especially in applying cutting-edge and robust algorithms to assist radiologists in achieving fast and light medical image analysis. My ultimate academic goal is to improve the robustness and generalization ability of machine learning in non-stationary and imperfect environments to make machine learning easily cope with various abnormal and complex environmental changes so as to realize human-trusted, large-scale popularized intelligent systems.
 
 # News
+- 2023/09/22：1 paper accepted to NeurIPS 2023.
 - 2023/07/26: 2 papers accepted to ACM MM 2022.
 - 2023/05/17: 1 paper accepted to TKDE.
 - 2023/05/12: 1 paper accepted to Pattern Recognition.
@@ -59,6 +60,7 @@ My primary academic interest is developing the theory and algorithm of robust ma
 8. **Zhongyi Han**, Wan Su, Rundong He, Yilong Yin, "Universal Domain Adaptation by Threshold-Free Uncertainty Ensemble Learning." ACML, 2022
 9. **Zhongyi Han**, Rundong He, Tianyang Li, Benzheng Wei, Jian Wang, Yilong Yin, "Semi-Supervised Screening of COVID-19 from Positive and Unlabeled Data with Constraint Non-Negative Risk Estimator." IPMI, 2021
 10. **Zhongyi Han**, Benzheng Wei, Stephanie Leung, Jonathan Chung, Shuo Li, "Towards Automatic Report Generation in Spine Radiology Using Weakly Supervised Framework." MICCAI, 2018
+11. Yingbin Bai, **Zhongyi Han**, Erkun Yang, Jun Yu, Bo Han, Dadong Wang, Tongliang Liu, "Subclass-Dominant Label Noise: A Counterexample for the Success of Early Stopping", NeurIPS, 2023
 
 Note: * denotes the corresponding author, # denotes the co-first author
 
