@@ -88,3 +88,17 @@ Note: * denotes the corresponding author, # denotes the co-first author
 -	AAAI 2021-2023
 -	MM 2023
 -	MICCAI 2018-2023
+
+Viewing Stats
+======
+
+<!-- <div style='width:350px;height:350px;margin:0 auto'>
+    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=4HIu0QzaVjxZ6lANkwG5E12bXki5oB6rfb-tI4vEPyQ&cl=ffffff&w=a"></script>
+</div> -->
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=0e1633&w=500&t=tt&d=4HIu0QzaVjxZ6lANkwG5E12bXki5oB6rfb-tI4vEPyQ&co=0b4975&ct=cdd4d9&cmo=3acc3a&cmn=ff5353'></script>
+
+<!-- Motto
+======
+
+$\color{Brown}{\texttt{Never Underestimate Your Power to Change Yourself!}}$ -->
