@@ -1,13 +1,12 @@
 ---
 layout: archive
-title: "People"
+title: "Team Members"
 permalink: /people/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-# Team Members
 ## Ph.D. Students
 - [Rundong He](https://rundonghe.github.io/), Shandong University, 2019-Now (Co-advise with Prof. Yilong Yin)
 - Wan Su, Shandong University, 2020-Now, (Co-advise with Prof. Yilong Yin)
