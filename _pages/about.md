@@ -32,34 +32,30 @@ My primary academic interest lies in advancing the theory and algorithms for rob
 - 2020/04/20: 1 paper accepted to IJCAI 2020.
 
 # Team Members
-- Ph.D. Students
-[Rundong He](https://rundonghe.github.io/), Shandong University, 2019-Now (Co-advise with Prof. Yilong Yin)
-Wan Su, Shandong University, 2020-Now, (Co-advise with Prof. Yilong Yin)
-Fan Wang, Shandong University, 2021-Now (Co-advise with Prof. Yilong Yin)
+## Ph.D. Students
+- [Rundong He](https://rundonghe.github.io/), Shandong University, 2019-Now (Co-advise with Prof. Yilong Yin)
+- Wan Su, Shandong University, 2020-Now, (Co-advise with Prof. Yilong Yin)
+- Fan Wang, Shandong University, 2021-Now (Co-advise with Prof. Yilong Yin)
 Yicong Dong, Shandong University, 2023-Now (Co-advise with Prof. Yilong Yin)
-
-- Master Students
-Hao Sun, Shandong University, 2022-Now (Co-advise with Prof. Yilong Yin)
-Yue Yuan, Shandong University, 2022-Now (Co-advise with Prof. Yilong Yin)
-Quanyu Zhang, Shandong University, 2023-Now (Co-advise with Prof. Yilong Yin)
-Jiaxin Huang, University of Electronic Science and Technology of China, 2023-Now (Co-advise with Prof. Tongliang Liu)
-Shenjing Wu, Shandong University of Traditional Chinese Medicine, 2023-Now (Co-advise with Prof. Benzheng Wei)
-Bin Wang, Shandong University of Traditional Chinese Medicine, 2023-Now (Co-advise with Prof. Benzheng Wei)
-Wenhao Wang, Shandong University of Traditional Chinese Medicine, 2023-Now (Co-advise with Prof. Benzheng Wei)
-
-- Undergraduate Students
-Kevin Zheng, The University of Sydney, 2023-Now (Co-advise with Prof. Tongliang Liu)
-
-- Distinguished Alumni
-Rongxue Li, Westlake University, 2021-2022
-Zhiyan Zhang, Shandong University, 2022-2023
+## Master Students
+- Hao Sun, Shandong University, 2022-Now (Co-advise with Prof. Yilong Yin)
+- Yue Yuan, Shandong University, 2022-Now (Co-advise with Prof. Yilong Yin)
+- Quanyu Zhang, Shandong University, 2023-Now (Co-advise with Prof. Yilong Yin)
+- Jiaxin Huang, University of Electronic Science and Technology of China, 2023-Now (Co-advise with Prof. Tongliang Liu)
+- Shenjing Wu, Shandong University of Traditional Chinese Medicine, 2023-Now (Co-advise with Prof. Benzheng Wei)
+- Bin Wang, Shandong University of Traditional Chinese Medicine, 2023-Now (Co-advise with Prof. Benzheng Wei)
+- Wenhao Wang, Shandong University of Traditional Chinese Medicine, 2023-Now (Co-advise with Prof. Benzheng Wei)
+## Undergraduate Students
+- Kevin Zheng, The University of Sydney, 2023-Now (Co-advise with Prof. Tongliang Liu)
+## Distinguished Alumni
+- Rongxue Li, Westlake University, 2021-2022
+- Zhiyan Zhang, Shandong University, 2022-2023
 
 
 
 
 
 # Publications
-
 ## Journal
 1.	**Zhongyi Han**, Xian-Jin Gui, Haoliang Sun, Yilong Yin, Shuo Li, "Towards Accurate and Robust Domain Adaptation Under Multiple Noisy Environments." IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022
 2.	**Zhongyi Han**, Haoliang Sun, Yilong Yin, "Learning Transferable Parameters for Unsupervised Domain Adaptation." IEEE Transactions on Image Processing, 2022
@@ -74,7 +70,6 @@ Zhiyan Zhang, Shandong University, 2022-2023
 11.	Wan Su, **Zhongyi Han**<sup>*</sup>, Rundong He, Benzheng Wei, Xueying He, Yilong Yin, "Neighborhood-based Credibility Anchor Learning for Universal Domain Adaptation." Pattern Recognition, 2023.
 12.	Rundong He, **Zhongyi Han**<sup>*</sup>, Yilong Yin, "Towards Safe and Robust Weakly-Supervised Anomaly Detection under Subpopulation Shift." Knowledge-Based Systems, 2022.
 13.	Fan Wang, **Zhongyi Han**<sup>*</sup>, Yilong Yin, "Source Free Robust Domain Adaptation Based on Pseudo Label Uncertainty Estimation." Journal of Software, 2022
-
 ## Conference
 1.  Fan Wang, **Zhongyi Han**<sup>*</sup>, Zhiyan Zhang, Rundong He, Yilong Yin, "MHPL: Minimum Happy Points Learning for Active Source Free Domain Adaptation." CVPR, 2023
 2.  **Zhongyi Han**, Zhiyan Zhang, Fan Wang, Rundong He, Xiaoming Xi, Yilong Yin, "Discriminability and Transferability Estimation: A Bayesian Source Importance Estimation Approach for Multi-Source-Free Domain Adaptation." AAAI, 2023
@@ -102,7 +97,6 @@ Note: * denotes the corresponding author, # denotes the co-first author
 -	ACM Computing Surveys
 -	Neural Networks
 -	IEEE Journal of Biomedical and Health Informatics (JBHI)
-
 ## Program committee or reviewer for conferences
 -	NeurIPS 2023
 -	ICML 2023
@@ -114,16 +108,11 @@ Note: * denotes the corresponding author, # denotes the co-first author
 -	AAAI 2021-2023
 -	MM 2023
 -	MICCAI 2018-2023
-
 # Viewing Stats
-
 <!-- <div style='width:350px;height:350px;margin:0 auto'>
     <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=4HIu0QzaVjxZ6lANkwG5E12bXki5oB6rfb-tI4vEPyQ&cl=ffffff&w=a"></script>
 </div> -->
-
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=xIYdraSx8fRarw5QPwn9OsGSHC0E3a2iArnFWuSJly4&cl=ffffff&w=a"></script>
-
 <!-- Motto
 ======
-
 $\color{Brown}{\texttt{Never Underestimate Your Power to Change Yourself!}}$ -->
