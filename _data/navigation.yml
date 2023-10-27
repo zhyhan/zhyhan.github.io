@@ -2,16 +2,16 @@
 main:
   - title: "Publications"
     url: /publications/
-
-  - title: "Presentations"
-    url: /talks/
     
   - title: "Services"
     url: /services/  
     
-  - title: "Awards"
-    url: /awards/
+  - title: "People"
+    url: /people/
     
+# - title: "Presentations"
+#   url: /talks/   
+  
 #   - title: "Teaching"
 #     url: /teaching/    
         
