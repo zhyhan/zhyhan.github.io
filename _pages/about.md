@@ -36,7 +36,7 @@ My primary academic interest lies in advancing the theory and algorithms for rob
 - [Rundong He](https://rundonghe.github.io/), Shandong University, 2019-Now (Co-advise with Prof. Yilong Yin)
 - Wan Su, Shandong University, 2020-Now, (Co-advise with Prof. Yilong Yin)
 - Fan Wang, Shandong University, 2021-Now (Co-advise with Prof. Yilong Yin)
-Yicong Dong, Shandong University, 2023-Now (Co-advise with Prof. Yilong Yin)
+- Yicong Dong, Shandong University, 2023-Now (Co-advise with Prof. Yilong Yin)
 
 ## Master Students
 - Hao Sun, Shandong University, 2022-Now (Co-advise with Prof. Yilong Yin)
