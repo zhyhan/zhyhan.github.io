@@ -11,8 +11,6 @@ I am a postdoctoral research fellow at Mohamed bin Zayed University of Artificia
 
 My primary academic interest lies in advancing the theory and algorithms for robust machine learning in open-world environments. I am also dedicated to fostering the growth of AI for Science (Biomedical Science) and firmly believe in the essential research potential of open scenarios within AI for Science. My ultimate academic aspiration is to enhance the robustness and generalization capability of machine learning in non-stationary and imperfect settings. I aim to ensure that machine learning can adeptly handle a wide range of abnormal and complex environmental shifts, paving the way for human-trusted, widely adopted intelligent systems.
 
-<div style="width: 100%; height: 300px; overflow-y: scroll; border: 1px solid black; padding: 10px;">
-
 # News
 - 2023/09/22: 1 paper accepted to NeurIPS 2023.
 - 2023/07/26: 2 papers accepted to ACM MM 2023.
@@ -33,31 +31,28 @@ My primary academic interest lies in advancing the theory and algorithms for rob
 - 2020/05/15: 1 paper accepted to TMI.
 - 2020/04/20: 1 paper accepted to IJCAI 2020.
 
-</div>
-
-
 # Team Members
-## Ph.D. Students
-- [Rundong He](https://rundonghe.github.io/), Shandong University, 2019-Now (Co-advise with Prof. Yilong Yin)
-- Wan Su, Shandong University, 2020-Now, (Co-advise with Prof. Yilong Yin)
-- Fan Wang, Shandong University, 2021-Now (Co-advise with Prof. Yilong Yin)
-- Yicong Dong, Shandong University, 2023-Now (Co-advise with Prof. Yilong Yin)
+- Ph.D. Students
+[Rundong He](https://rundonghe.github.io/), Shandong University, 2019-Now (Co-advise with Prof. Yilong Yin)
+Wan Su, Shandong University, 2020-Now, (Co-advise with Prof. Yilong Yin)
+Fan Wang, Shandong University, 2021-Now (Co-advise with Prof. Yilong Yin)
+Yicong Dong, Shandong University, 2023-Now (Co-advise with Prof. Yilong Yin)
 
-## Master Students
-- Hao Sun, Shandong University, 2022-Now (Co-advise with Prof. Yilong Yin)
-- Yue Yuan, Shandong University, 2022-Now (Co-advise with Prof. Yilong Yin)
-- Quanyu Zhang, Shandong University, 2023-Now (Co-advise with Prof. Yilong Yin)
-- Jiaxin Huang, University of Electronic Science and Technology of China, 2023-Now (Co-advise with Prof. Tongliang Liu)
-- Shenjing Wu, Shandong University of Traditional Chinese Medicine, 2023-Now (Co-advise with Prof. Benzheng Wei)
-- Bin Wang, Shandong University of Traditional Chinese Medicine, 2023-Now (Co-advise with Prof. Benzheng Wei)
-- Wenhao Wang, Shandong University of Traditional Chinese Medicine, 2023-Now (Co-advise with Prof. Benzheng Wei)
+- Master Students
+Hao Sun, Shandong University, 2022-Now (Co-advise with Prof. Yilong Yin)
+Yue Yuan, Shandong University, 2022-Now (Co-advise with Prof. Yilong Yin)
+Quanyu Zhang, Shandong University, 2023-Now (Co-advise with Prof. Yilong Yin)
+Jiaxin Huang, University of Electronic Science and Technology of China, 2023-Now (Co-advise with Prof. Tongliang Liu)
+Shenjing Wu, Shandong University of Traditional Chinese Medicine, 2023-Now (Co-advise with Prof. Benzheng Wei)
+Bin Wang, Shandong University of Traditional Chinese Medicine, 2023-Now (Co-advise with Prof. Benzheng Wei)
+Wenhao Wang, Shandong University of Traditional Chinese Medicine, 2023-Now (Co-advise with Prof. Benzheng Wei)
 
-## Undergraduate Students
-- Kevin Zheng, The University of Sydney, 2023-Now (Co-advise with Prof. Tongliang Liu)
+- Undergraduate Students
+Kevin Zheng, The University of Sydney, 2023-Now (Co-advise with Prof. Tongliang Liu)
 
-## Distinguished Alumni
-- Rongxue Li, Westlake University, 2021-2022
-- Zhiyan Zhang, Shandong University, 2022-2023
+- Distinguished Alumni
+Rongxue Li, Westlake University, 2021-2022
+Zhiyan Zhang, Shandong University, 2022-2023
 
 
 
