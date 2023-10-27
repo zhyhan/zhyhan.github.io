@@ -1,3 +1,12 @@
+---
+layout: archive
+title: "People"
+permalink: /people/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
 # Team Members
 ## Ph.D. Students
 - [Rundong He](https://rundonghe.github.io/), Shandong University, 2019-Now (Co-advise with Prof. Yilong Yin)
