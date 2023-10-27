@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a postdoctoral research fellow at Mohamed bin Zayed University of Artificial Intelligence and Carnegie Mellon University, working with [Prof. Tongliang Liu](https://tongliang-liu.github.io/) and [Prof. Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/). Prior to that, I received my Ph.D. degree at Shandong University in 2023 (early graduation), advised by [Prof. Yilong Yin](http://faculty.sdu.edu.cn/ylyin).
+I am a postdoctoral research fellow at Mohamed bin Zayed University of Artificial Intelligence and Carnegie Mellon University (MBZUAI), working with Prof. Tongliang Liu and Prof. Kun Zhang. Before that, I received my Ph.D. degree at Shandong University in March 2023 (early graduation), advised by Prof. Yilong Yin. Between 2019 and 2020, I had the opportunity to be a visiting student at the LAMDA group of Nanjing University, led by Prof. Zhi-Hua Zhou. Earlier, from 2016 to 2018, I was a visiting student in Prof. Shuo Li's group at Western University in Canada. In 2018, I also undertook an internship at Baidu. My academic foundation was laid at Shandong University of Traditional Chinese Medicine, where I obtained my Bachelor's degree in 2016 and my Master's degree in 2019, both in Biomedical Engineering. Throughout this period, Prof. Benzheng Wei served as my mentor.
 
-My primary academic interest is developing the theory and algorithm of robust machine learning. I am also devoted to promoting the development of AI-empowered healthcare, especially in applying cutting-edge and robust algorithms to assist radiologists in achieving fast and light medical image analysis. My ultimate academic goal is to improve the robustness and generalization ability of machine learning in non-stationary and imperfect environments to make machine learning easily cope with various abnormal and complex environmental changes so as to realize human-trusted, large-scale popularized intelligent systems.
+My primary academic interest lies in advancing the theory and algorithms for robust machine learning in open-world environments. I am also dedicated to fostering the growth of AI for Science (Biomedical Science) and firmly believe in the essential research potential of open scenarios within AI for Science. My ultimate academic aspiration is to enhance the robustness and generalization capability of machine learning in non-stationary and imperfect settings. I aim to ensure that machine learning can adeptly handle a wide range of abnormal and complex environmental shifts, paving the way for human-trusted, widely adopted intelligent systems.
 
 # News
 - 2023/09/22: 1 paper accepted to NeurIPS 2023.
@@ -30,6 +30,32 @@ My primary academic interest is developing the theory and algorithm of robust ma
 - 2020/09/25: 1 paper accepted to MedIA.
 - 2020/05/15: 1 paper accepted to TMI.
 - 2020/04/20: 1 paper accepted to IJCAI 2020.
+
+# Team Members
+## Ph.D. Students
+- [Rundong He](https://rundonghe.github.io/), Shandong University, 2019-Now (Co-advise with Prof. Yilong Yin)
+- Wan Su, Shandong University, 2020-Now, (Co-advise with Prof. Yilong Yin)
+- Fan Wang, Shandong University, 2021-Now (Co-advise with Prof. Yilong Yin)
+- Yicong Dong, Shandong University, 2023-Now (Co-advise with Prof. Yilong Yin)
+
+## Master Students
+- Hao Sun, Shandong University, 2022-Now (Co-advise with Prof. Yilong Yin)
+- Yue Yuan, Shandong University, 2022-Now (Co-advise with Prof. Yilong Yin)
+- Quanyu Zhang, Shandong University, 2023-Now (Co-advise with Prof. Yilong Yin)
+- Jiaxin Huang, University of Electronic Science and Technology of China, 2023-Now (Co-advise with Prof. Tongliang Liu)
+- Shenjing Wu, Shandong University of Traditional Chinese Medicine, 2023-Now (Co-advise with Prof. Benzheng Wei)
+- Bin Wang, Shandong University of Traditional Chinese Medicine, 2023-Now (Co-advise with Prof. Benzheng Wei)
+- Wenhao Wang, Shandong University of Traditional Chinese Medicine, 2023-Now (Co-advise with Prof. Benzheng Wei)
+
+## Undergraduate Students
+- Kevin Zheng, The University of Sydney, 2023-Now (Co-advise with Prof. Tongliang Liu)
+
+## Distinguished Alumni
+- Rongxue Li, Westlake University, 2021-2022
+- Zhiyan Zhang, Shandong University, 2022-2023
+
+
+
 
 
 # Publications
@@ -89,7 +115,7 @@ Note: * denotes the corresponding author, # denotes the co-first author
 -	MM 2023
 -	MICCAI 2018-2023
 
-Viewing Stats
+# Viewing Stats
 ======
 
 <!-- <div style='width:350px;height:350px;margin:0 auto'>
