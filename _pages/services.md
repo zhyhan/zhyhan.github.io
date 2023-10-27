@@ -7,22 +7,25 @@ redirect_from:
   - /markdown.html
 ---
 
-* Program committee or reviewer for conferences
-  * ICCV 2021
-  * CVPR 2021
-  * ICASSP 2021
-  * AAAI 2021
-  * CCDM 2020
-  * MICCAI 2018, 2019, 2020, 2021
-* Reviewer for journals
-  * IEEE Transactions on Pattern Analysis and Machine Intelligence
-  * IEEE Transactions on Neural Networks and Learning Systems
-  * IEEE Transactions on Medical Imaging
-  * IEEE Transactions on Emerging Topics in Computational Intelligence
-  * Medical Image Analysis
-  * Journal of Intelligence Systems
-  * Scientific Reports
-  * Applied Soft Computing
-  * IEEE Access
-  * Plos One
-  * Informatics in Medicine Unlocked
+## Reviewer for journals
+-	IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+-	IEEE Transactions on Image Processing (TIP)
+-	IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+-	IEEE Transactions on Medical Imaging (TMI)
+-	Medical Image Analysis (MedIA)
+-	Artificial Intelligence Review
+-	ACM Computing Surveys
+-	Neural Networks
+-	IEEE Journal of Biomedical and Health Informatics (JBHI)
+
+## Program committee or reviewer for conferences
+-	NeurIPS 2023
+-	ICML 2023
+-	ICLR 2023
+-	UAI 2023
+-	CVPR 2022-2023
+-	ICCV 2021-2023
+-	ECCV 2022
+-	AAAI 2021-2023
+-	MM 2023
+-	MICCAI 2018-2023
