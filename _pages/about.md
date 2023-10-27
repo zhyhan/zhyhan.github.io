@@ -31,29 +31,6 @@ My primary academic interest lies in advancing the theory and algorithms for rob
 - 2020/05/15: 1 paper accepted to TMI.
 - 2020/04/20: 1 paper accepted to IJCAI 2020.
 
-# Team Members
-## Ph.D. Students
-- [Rundong He](https://rundonghe.github.io/), Shandong University, 2019-Now (Co-advise with Prof. Yilong Yin)
-- Wan Su, Shandong University, 2020-Now, (Co-advise with Prof. Yilong Yin)
-- Fan Wang, Shandong University, 2021-Now (Co-advise with Prof. Yilong Yin)
-- Yicong Dong, Shandong University, 2023-Now (Co-advise with Prof. Yilong Yin)
-
-## Master Students
-- Hao Sun, Shandong University, 2022-Now (Co-advise with Prof. Yilong Yin)
-- Yue Yuan, Shandong University, 2022-Now (Co-advise with Prof. Yilong Yin)
-- Quanyu Zhang, Shandong University, 2023-Now (Co-advise with Prof. Yilong Yin)
-- Jiaxin Huang, University of Electronic Science and Technology of China, 2023-Now (Co-advise with Prof. Tongliang Liu)
-- Shenjing Wu, Shandong University of Traditional Chinese Medicine, 2023-Now (Co-advise with Prof. Benzheng Wei)
-- Bin Wang, Shandong University of Traditional Chinese Medicine, 2023-Now (Co-advise with Prof. Benzheng Wei)
-- Wenhao Wang, Shandong University of Traditional Chinese Medicine, 2023-Now (Co-advise with Prof. Benzheng Wei)
-
-## Undergraduate Students
-- Kevin Zheng, The University of Sydney, 2023-Now (Co-advise with Prof. Tongliang Liu)
-
-## Distinguished Alumni
-- Rongxue Li, Westlake University, 2021-2022
-- Zhiyan Zhang, Shandong University, 2022-2023
-
 # Publications
 ## Journal
 1.	**Zhongyi Han**, Xian-Jin Gui, Haoliang Sun, Yilong Yin, Shuo Li, "Towards Accurate and Robust Domain Adaptation Under Multiple Noisy Environments." IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022
@@ -84,31 +61,6 @@ My primary academic interest lies in advancing the theory and algorithms for rob
 11. Yingbin Bai, **Zhongyi Han**, Erkun Yang, Jun Yu, Bo Han, Dadong Wang, Tongliang Liu, "Subclass-Dominant Label Noise: A Counterexample for the Success of Early Stopping", NeurIPS, 2023
 
 Note: * denotes the corresponding author, # denotes the co-first author
-
-
-# Services
-## Reviewer for journals
--	IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
--	IEEE Transactions on Image Processing (TIP)
--	IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
--	IEEE Transactions on Medical Imaging (TMI)
--	Medical Image Analysis (MedIA)
--	Artificial Intelligence Review
--	ACM Computing Surveys
--	Neural Networks
--	IEEE Journal of Biomedical and Health Informatics (JBHI)
-
-## Program committee or reviewer for conferences
--	NeurIPS 2023
--	ICML 2023
--	ICLR 2023
--	UAI 2023
--	CVPR 2022-2023
--	ICCV 2021-2023
--	ECCV 2022
--	AAAI 2021-2023
--	MM 2023
--	MICCAI 2018-2023
 
 # Viewing Stats
 
