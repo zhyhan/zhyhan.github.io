@@ -20,10 +20,10 @@ redirect_from:
 
 ## Program committee or reviewer for conferences
 -	NeurIPS 2023
--	ICML 2023
+-	ICML 2023-2024
 -	ICLR 2023
 -	UAI 2023
--	CVPR 2022-2023
+-	CVPR 2022-2024
 -	ICCV 2021-2023
 -	ECCV 2022
 -	AAAI 2021-2023
