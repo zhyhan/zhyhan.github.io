@@ -17,13 +17,13 @@ redirect_from:
 - Hao Sun, Shandong University, 2022-Now (Co-advise with Prof. Yilong Yin)
 - Yue Yuan, Shandong University, 2022-Now (Co-advise with Prof. Yilong Yin)
 - Quanyu Zhang, Shandong University, 2023-Now (Co-advise with Prof. Yilong Yin)
-- Jiaxin Huang, University of Electronic Science and Technology of China, 2023-Now (Co-advise with Prof. Tongliang Liu)
 - Shenjing Wu, Shandong University of Traditional Chinese Medicine, 2023-Now (Co-advise with Prof. Benzheng Wei)
 - Bin Wang, Shandong University of Traditional Chinese Medicine, 2023-Now (Co-advise with Prof. Benzheng Wei)
 - Wenhao Wang, Shandong University of Traditional Chinese Medicine, 2023-Now (Co-advise with Prof. Benzheng Wei)
 
 ## Undergraduate Students
 - Kevin Zheng, The University of Sydney, 2023-Now (Co-advise with Prof. Tongliang Liu)
+- Zhiyan Zhang, Shandong University, 2021-Now
 
 ## Distinguished Alumni
 - Rongxue Li, Westlake University, 2021-2022
