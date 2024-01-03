@@ -27,4 +27,3 @@ redirect_from:
 
 ## Distinguished Alumni
 - Rongxue Li, Westlake University, 2021-2022
-- Zhiyan Zhang, Shandong University, 2022-2023
