@@ -12,6 +12,8 @@ From January 2024, I am a postdoctoral research fellow at King Abdullah Universi
 My primary academic interest lies in advancing the theory and algorithms for robust machine learning in open-world environments. I am also dedicated to fostering the growth of AI for Science (biomedical science) and firmly believe in the essential research potential of open scenarios within AI for Science. My ultimate academic aspiration is to enhance the robustness and generalization capability of machine learning in non-stationary and imperfect settings. I aim to ensure that machine learning can handle a wide range of abnormal and complex environmental shifts, paving the way for human-trusted, widely adopted intelligent systems.
 
 # News
+- 2024/03/05: 1 paper accepted to ICLR 2024 Workshop ME-FoMo.
+- 2024/02/27: 1 paper accepted to CVPR 2024.
 - 2023/12/13: Exciting news: A preliminary investigation on the robustness of GPT-4V on distribution shifts has been [released](https://arxiv.org/abs/2312.07424) and is now featured by AK on the ['Daily Papers'](https://huggingface.co/papers) page.
 - 2023/12/09: 1 paper accepted to AAAI 2024.
 - 2023/11/25: 1 paper accepted to KBS.
