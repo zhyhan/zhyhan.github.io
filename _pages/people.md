@@ -8,21 +8,90 @@ redirect_from:
 ---
 
 ## Ph.D. Students
-- [Rundong He](https://rundonghe.github.io/), Shandong University, 2019-Now (Co-advise with Prof. Yilong Yin)
-- Wan Su, Shandong University, 2020-Now, (Co-advise with Prof. Yilong Yin)
-- Fan Wang, Shandong University, 2021-Now (Co-advise with Prof. Yilong Yin)
-- Yicong Dong, Shandong University, 2023-Now (Co-advise with Prof. Yilong Yin)
-- Hao Sun, Shandong University, 2022-Now (Co-advise with Prof. Yilong Yin)
-- Xinyu Wang, Shandong University of Finance and Economics, 2023-Now (Co-advise with Prof. Hui Zhang)
+
+
+<div style="margin-bottom: 20px;">
+  <a href="https://rundonghe.github.io/" style="font-weight: bold; color: #0056b3;">Rundong He</a> <span style="font-size: 0.9em; color: gray;">(co-advised with Prof. Yilong Yin)</span><br>
+  Shandong University, 2019-Now<br>
+  <span style="font-weight: bold;">Ph.D. Candidate in Computer Science</span>
+</div>
+
+<div style="margin-bottom: 20px;">
+  <span style="font-weight: bold; color: #0056b3;">Wan Su</span> <span style="font-size: 0.9em; color: gray;">(co-advised with Prof. Yilong Yin)</span><br>
+  Shandong University, 2020-Now<br>
+  <span style="font-weight: bold;">Ph.D. Candidate in Computer Science</span>
+</div>
+
+<div style="margin-bottom: 20px;">
+  <span style="font-weight: bold; color: #0056b3;">Fan Wang</span> <span style="font-size: 0.9em; color: gray;">(co-advised with Prof. Yilong Yin)</span><br>
+  Shandong University, 2021-Now<br>
+  <span style="font-weight: bold;">Ph.D. Candidate in Computer Science</span>
+</div>
+
+<div style="margin-bottom: 20px;">
+  <span style="font-weight: bold; color: #0056b3;">Yicong Dong</span> <span style="font-size: 0.9em; color: gray;">(co-advised with Prof. Yilong Yin)</span><br>
+  Shandong University, 2023-Now<br>
+  <span style="font-weight: bold;">Ph.D. Candidate in Computer Science</span>
+</div>
+
+<div style="margin-bottom: 20px;">
+  <span style="font-weight: bold; color: #0056b3;">Hao Sun</span> <span style="font-size: 0.9em; color: gray;">(co-advised with Prof. Yilong Yin)</span><br>
+  Shandong University, 2022-Now<br>
+  <span style="font-weight: bold;">Ph.D. Candidate in Computer Science</span>
+</div>
+
+<div style="margin-bottom: 20px;">
+  <span style="font-weight: bold; color: #0056b3;">Xinyu Wang</span> <span style="font-size: 0.9em; color: gray;">(co-advised with Prof. Hui Zhang)</span><br>
+  Shandong University of Finance and Economics, 2023-Now<br>
+  <span style="font-weight: bold;">Ph.D. Candidate in Computer Science</span>
+</div>
 
 ## Master Students
-- Yue Yuan, Shandong University, 2022-Now (Co-advise with Prof. Yilong Yin)
-- Quanyu Zhang, Shandong University, 2023-Now (Co-advise with Prof. Yilong Yin)
-- Shenjing Wu, Shandong University of Traditional Chinese Medicine, 2023-Now (Co-advise with Prof. Benzheng Wei)
-- Bin Wang, Shandong University of Traditional Chinese Medicine, 2023-Now (Co-advise with Prof. Benzheng Wei)
-- Wenhao Wang, Shandong University of Traditional Chinese Medicine, 2023-Now (Co-advise with Prof. Benzheng Wei)
+
+<div style="margin-bottom: 20px;">
+  <span style="font-weight: bold; color: #0056b3;">Yue Yuan</span> <span style="font-size: 0.9em; color: gray;">(co-advised with Prof. Yilong Yin)</span><br>
+  Shandong University, 2022-Now<br>
+  <span style="font-weight: bold;">Master Student in Computer Science</span>
+</div>
+
+<div style="margin-bottom: 20px;">
+  <span style="font-weight: bold; color: #0056b3;">Quanyu Zhang</span> <span style="font-size: 0.9em; color: gray;">(co-advised with Prof. Yilong Yin)</span><br>
+  Shandong University, 2023-Now<br>
+  <span style="font-weight: bold;">Master Student in Computer Science</span>
+</div>
+
+<div style="margin-bottom: 20px;">
+  <span style="font-weight: bold; color: #0056b3;">Shenjing Wu</span> <span style="font-size: 0.9em; color: gray;">(co-advised with Prof. Benzheng Wei)</span><br>
+  Shandong University of Traditional Chinese Medicine, 2023-Now<br>
+  <span style="font-weight: bold;">Master Student in Computer Science</span>
+</div>
+
+<div style="margin-bottom: 20px;">
+  <span style="font-weight: bold; color: #0056b3;">Bin Wang</span> <span style="font-size: 0.9em; color: gray;">(co-advised with Prof. Benzheng Wei)</span><br>
+  Shandong University of Traditional Chinese Medicine, 2023-Now<br>
+  <span style="font-weight: bold;">Master Student in Computer Science</span>
+</div>
+
+<div style="margin-bottom: 20px;">
+  <span style="font-weight: bold; color: #0056b3;">Wenhao Wang</span> <span style="font-size: 0.9em; color: gray;">(co-advised with Prof. Benzheng Wei)</span><br>
+  Shandong University of Traditional Chinese Medicine, 2023-Now<br>
+  <span style="font-weight: bold;">Master Student in Computer Science</span>
+</div>
 
 ## Undergraduate Students
-- Kevin Zheng, The University of Sydney, 2023-2024 (Co-advise with Prof. Tongliang Liu)
-- Rongxue Li, Shandong University > PhD Student of Westlake University (now), 2021-2022
-- Zhiyan Zhang, Shandong University > MSc Student of New York University (now), 2021-2024
+
+<div style="margin-bottom: 20px;">
+  <span style="font-weight: bold; color: #0056b3;">Kevin Zheng</span> <span style="font-size: 0.9em; color: gray;">(co-advised with Prof. Tongliang Liu)</span><br>
+  The University of Sydney, 2023-2024<br>
+  <span style="font-weight: bold;">Undergraduate Student in Computer Science</span>
+</div>
+
+<div style="margin-bottom: 20px;">
+  <span style="font-weight: bold; color: #0056b3;">Rongxue Li</span> <span style="font-size: 0.9em; color: gray;">Shandong University > PhD Student of Westlake University (now), 2021-2022</span><br>
+  <span style="font-weight: bold;">Ph.D. Candidate in Computer Science</span>
+</div>
+
+<div style="margin-bottom: 20px;">
+  <span style="font-weight: bold; color: #0056b3;">Zhiyan Zhang</span> <span style="font-size: 0.9em; color: gray;">Shandong University > MSc Student of New York University (now), 2021-2024</span><br>
+  <span style="font-weight: bold;">Master Student in Computer Science</span>
+</div>
