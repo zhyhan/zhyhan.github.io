@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-# Students and Team Members Guided by Zhongyi Han
-
 ## Ph.D. Students
 - [Rundong He](https://rundonghe.github.io/), Shandong University, 2019-Now (Co-advise with Prof. Yilong Yin)
 - Wan Su, Shandong University, 2020-Now, (Co-advise with Prof. Yilong Yin)
