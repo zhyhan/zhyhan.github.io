@@ -90,4 +90,20 @@ author_profile: true
 </div>
 
 <div style="margin-bottom: 20px;">
-  <span style="font-weight: bold; color: #0056b3;">Zhongyi Han</span>, Xian-Jin Gui, Chaoran Cui, Yilong Yin,
+  <span style="font-weight: bold; color: #0056b3;">Zhongyi Han</span>, Xian-Jin Gui, Chaoran Cui, Yilong Yin, "Towards Accurate and Robust Domain Adaptation under Noisy Environments." <em><strong>IJCAI</strong></em>, 2020
+</div>
+
+<div style="margin-bottom: 20px;">
+  <span style="font-weight: bold; color: #0056b3;">Zhongyi Han</span>, Wan Su, Rundong He, Yilong Yin, "Universal Domain Adaptation by Threshold-Free Uncertainty Ensemble Learning." <em><strong>ACML</strong></em>, 2022
+</div>
+
+<div style="margin-bottom: 20px;">
+  <span style="font-weight: bold; color: #0056b3;">Zhongyi Han</span>, Rundong He, Tianyang Li, Benzheng Wei, Jian Wang, Yilong Yin, "Semi-Supervised Screening of COVID-19 from Positive and Unlabeled Data with Constraint Non-Negative Risk Estimator." <em><strong>IPMI</strong></em>, 2021
+</div>
+
+<div style="margin-bottom: 20px;">
+  <span style="font-weight: bold; color: #0056b3;">Zhongyi Han</span>, Benzheng Wei, Stephanie Leung, Jonathan Chung, Shuo Li, "Towards Automatic Report Generation in Spine Radiology Using Weakly Supervised Framework." <em><strong>MICCAI</strong></em>, 2018
+</div>
+
+
+
