@@ -5,7 +5,8 @@ permalink: /talks/
 author_profile: true
 redirect_from:
   - /resume
----\
+---
+
 - Center for Medical Artificial Intelligence, Shandong University of Traditional Chinese Medicine, Mar. 2023
   Robust Domain Adaptation Under Open Dynamic Task Environments
 
