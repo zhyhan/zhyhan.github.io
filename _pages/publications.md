@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Selected Publications
-
 ## Journal
 
 <div style="margin-bottom: 20px;">
@@ -92,7 +90,4 @@ author_profile: true
 </div>
 
 <div style="margin-bottom: 20px;">
-  <span style="font-weight: bold; color: #0056b3;">Zhongyi Han</span>, Xian-Jin Gui, Chaoran Cui, Yilong Yin, "Towards Accurate and Robust Domain Adaptation under Noisy Environments." <em><strong>IJCAI</strong></em>, 2020
-</div>
-
-<div style="margin-bottom: 20px;">
+  <span style="font-weight: bold; color: #0056b3;">Zhongyi Han</span>, Xian-Jin Gui, Chaoran Cui, Yilong Yin,
