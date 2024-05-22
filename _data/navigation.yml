@@ -12,11 +12,11 @@ main:
   - title: "Award"
     url: /awards/
     
-# - title: "Presentations"
-#   url: /talks/   
+  - title: "Presentations"
+    url: /talks/   
   
-#   - title: "Teaching"
-#     url: /teaching/    
+  - title: "Teaching"
+    url: /teaching/    
         
 #   - title: "Blog Posts"
 #     url: /year-archive/
