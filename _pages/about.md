@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 From January 2024, I am a postdoctoral fellow at [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en/), working with [Prof. Xin Gao](https://cemse.kaust.edu.sa/sfb/people/person/xin-gao). From April 2023 to January 2024, I was a postdoctoral fellow at [Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)](https://mbzuai.ac.ae/) and [Carnegie Mellon University (CMU)](https://www.cmu.edu/), working with [Prof. Tongliang Liu](https://tongliang-liu.github.io/) and [Prof. Kun Zhang](http://www.andrew.cmu.edu/user/kunz1/). Before that, I received my Ph.D. at [Shandong University](https://www.sdu.edu.cn/) in March 2023 (early graduation), advised by [Prof. Yilong Yin](https://faculty.sdu.edu.cn/ylyin). Between 2019 and 2020, I had the opportunity to be a visiting student at the [LAMDA group](https://www.lamda.nju.edu.cn/MainPage.ashx) of [Nanjing University](https://www.nju.edu.cn/EN/main.psp), led by [Prof. Zhi-Hua Zhou](https://cs.nju.edu.cn/zhouzh/index.htm). Earlier, from 2016 to 2018, I was a visiting student in [Prof. Shuo Li](https://engineering.case.edu/about/school-directory/shuo-li)'s group at Western University in Canada. In 2018, I also undertook an internship at [Baidu](https://www.baidu.com/). My academic foundation was laid at [Shandong University of Traditional Chinese Medicine](https://www.sdutcm.edu.cn/), where I obtained my Bachelor's degree in 2016 and my Master's degree in 2019, both in Biomedical Engineering. Throughout this period, [Prof. Benzheng Wei](https://medai.sdutcm.edu.cn/) served as my mentor.
 
 My primary academic interest lies in:
@@ -40,7 +41,7 @@ My primary academic interest lies in:
 
 # Viewing Stats
 
-<!-- <div style='width:200px;height:200px;margin:0 auto'>
+<!-- <div style='width:350px;height:3500px;margin:0 auto'>
     <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=4HIu0QzaVjxZ6lANkwG5E12bXki5oB6rfb-tI4vEPyQ&cl=ffffff&w=a"></script>
 </div> -->
 
