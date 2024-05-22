@@ -8,12 +8,8 @@ redirect_from:
 ---
 ## Editor, Area Chair, and Meta Reviewer Contributions
 
-### Editor
-
-### Area Chair
-
 ### Meta Reviewer
-- AJCAI 2023
+- Australasian Joint Conference on Artificial Intelligence (AJCAI): 2023
 
 ## Reviewer and Program Committee Contributions
 
