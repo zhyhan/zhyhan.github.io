@@ -7,16 +7,14 @@ redirect_from:
   - /markdown.html
 ---
 
-# Services
+## Meta Reviewer
+<div style="margin-bottom: 20px;">
+  <ul style="list-style-type: none; padding-left: 0;">
+     <li style="margin-bottom: 10px;"><strong>Australasian Joint Conference on Artificial Intelligence (AJCAI)</strong> 2023, 2024</li>
+  </ul>
+</div>
 
-## Senior Contributions
-
-### Meta Reviewer
-- Australasian Joint Conference on Artificial Intelligence (AJCAI): 2023
-
-## Reviewer and Program Committee Contributions
-
-### Reviewer for Journals
+## Reviewer for Journals
 <div style="margin-bottom: 20px;">
   <ul style="list-style-type: none; padding-left: 0;">
     <li style="margin-bottom: 10px;"><strong>IEEE Transactions on Pattern Analysis and Machine Intelligence</strong> (TPAMI)</li>
@@ -40,7 +38,7 @@ redirect_from:
   </ul>
 </div>
 
-### Program Committee or Reviewer for Conferences
+## Reviewer for Conferences
 <div style="margin-bottom: 20px;">
   <ul style="list-style-type: none; padding-left: 0;">
     <li style="margin-bottom: 10px;"><strong>NeurIPS</strong> 2023, 2024</li>
@@ -51,7 +49,7 @@ redirect_from:
     <li style="margin-bottom: 10px;"><strong>ICCV</strong> 2021, 2022, 2023</li>
     <li style="margin-bottom: 10px;"><strong>ECCV</strong> 2022, 2024</li>
     <li style="margin-bottom: 10px;"><strong>AAAI</strong> 2021, 2022, 2023</li>
-    <li style="margin-bottom: 10px;"><strong>MM</strong> 2023, 2024</li>
+    <li style="margin-bottom: 10px;"><strong>ACM MM</strong> 2023, 2024</li>
     <li style="margin-bottom: 10px;"><strong>MICCAI</strong> 2018, 2019, 2020, 2021, 2022, 2023</li>
   </ul>
 </div>
