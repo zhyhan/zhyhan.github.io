@@ -24,7 +24,7 @@ redirect_from:
     <li style="margin-bottom: 10px;"><strong>IEEE Transactions on Medical Imaging</strong> (TMI)</li>
     <li style="margin-bottom: 10px;"><strong>IEEE Transactions on Circuits and Systems for Video Technology</strong> (TCSVT)</li>
     <li style="margin-bottom: 10px;"><strong>Medical Image Analysis</strong> (MedIA)</li>
-    <li style="margin-bottom: 10px;"><strong>ACM Transactions on Intelligent Systems and Technology</strong></li>
+    <li style="margin-bottom: 10px;"><strong>ACM Transactions on Intelligent Systems and Technology</strong> (TIST)</li>
     <li style="margin-bottom: 10px;"><strong>Pattern Recognition</strong></li>
     <li style="margin-bottom: 10px;"><strong>Pattern Recognition Letters</strong></li>
     <li style="margin-bottom: 10px;"><strong>AI in Medicine</strong></li>
