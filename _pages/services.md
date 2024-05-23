@@ -10,7 +10,7 @@ redirect_from:
 ## Meta Reviewer
 <div style="margin-bottom: 20px;">
   <ul style="list-style-type: none; padding-left: 0;">
-     <li style="margin-bottom: 10px;"><strong>Australasian Joint Conference on Artificial Intelligence (AJCAI)</strong> 2023, 2024</li>
+     <li style="margin-bottom: 10px;"><strong>Australasian Joint Conference on Artificial Intelligence (AJCAI)</strong> 2023</li>
   </ul>
 </div>
 
