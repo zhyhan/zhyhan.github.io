@@ -15,29 +15,33 @@ My primary academic interest lies in:
 - **AI for Science (Biomedical Science)**: Fostering the growth of AI for Science and firmly believing in the essential research potential of open scenarios within AI for Science.
   
 # News
-- 2024/03/05: One paper accepted to ICLR 2024 Workshop ME-FoMo.
-- 2024/02/27: One paper accepted to CVPR 2024.
-- 2023/12/13: Exciting news: A preliminary investigation on the robustness of GPT-4V on distribution shifts has been [released](https://arxiv.org/abs/2312.07424) and is now featured by AK on the ['Daily Papers'](https://huggingface.co/papers) page.
-- 2023/12/09: One paper accepted to AAAI 2024.
-- 2023/11/25: One paper accepted to KBS.
-- 2023/09/22: One paper accepted to NeurIPS 2023.
-- 2023/07/26: Two papers accepted to ACM MM 2023.
-- 2023/05/17: One paper accepted to TKDE.
-- 2023/05/12: One paper accepted to Pattern Recognition.
-- 2023/02/28: One paper accepted to CVPR 2023.
-- 2022/11/19: One paper accepted to AAAI 2023.
-- 2022/10/01: One paper accepted to TPAMI.
-- 2022/09/17: One paper accepted to ACML 2022.
-- 2022/07/05: One paper accepted to Science China Information Sciences.
-- 2022/06/30: One paper (oral) accepted to ACM MM 2022.
-- 2022/06/13: One paper accepted to TIP.
-- 2022/05/20: One paper accepted to KBS.
-- 2022/03/03: Two papers accepted to CVPR 2022.
-- 2021/12/01: One paper (oral) accepted to AAAI 2022.
-- 2020/12/02: One paper accepted to IPMI 2022.
-- 2020/09/25: One paper accepted to MedIA.
-- 2020/05/15: One paper accepted to TMI.
-- 2020/04/20: One paper accepted to IJCAI 2020.
+<div style="border: 1px solid #ccc; padding: 10px; height: 200px; overflow-y: scroll;">
+  <ul>
+    <li>2024/03/05: One paper accepted to ICLR 2024 Workshop ME-FoMo.</li>
+    <li>2024/02/27: One paper accepted to CVPR 2024.</li>
+    <li>2023/12/13: Exciting news: A preliminary investigation on the robustness of GPT-4V on distribution shifts has been released and is now featured by AK on the ‘Daily Papers’ page.</li>
+    <li>2023/12/09: One paper accepted to AAAI 2024.</li>
+    <li>2023/11/25: One paper accepted to KBS.</li>
+    <li>2023/09/22: One paper accepted to NeurIPS 2023.</li>
+    <li>2023/07/26: Two papers accepted to ACM MM 2023.</li>
+    <li>2023/05/17: One paper accepted to TKDE.</li>
+    <li>2023/05/12: One paper accepted to Pattern Recognition.</li>
+    <li>2023/02/28: One paper accepted to CVPR 2023.</li>
+    <li>2022/11/19: One paper accepted to AAAI 2023.</li>
+    <li>2022/10/01: One paper accepted to TPAMI.</li>
+    <li>2022/09/17: One paper accepted to ACML 2022.</li>
+    <li>2022/07/05: One paper accepted to Science China Information Sciences.</li>
+    <li>2022/06/30: One paper (oral) accepted to ACM MM 2022.</li>
+    <li>2022/06/13: One paper accepted to TIP.</li>
+    <li>2022/05/20: One paper accepted to KBS.</li>
+    <li>2022/03/03: Two papers accepted to CVPR 2022.</li>
+    <li>2021/12/01: One paper (oral) accepted to AAAI 2022.</li>
+    <li>2020/12/02: One paper accepted to IPMI 2022.</li>
+    <li>2020/09/25: One paper accepted to MedIA.</li>
+    <li>2020/05/15: One paper accepted to TMI.</li>
+    <li>2020/04/20: One paper accepted to IJCAI 2020.</li>
+  </ul>
+</div>
 
 # Viewing Stats
 
