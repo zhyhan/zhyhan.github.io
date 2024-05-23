@@ -14,7 +14,7 @@ My primary academic interest lies in:
 - **Robust Machine Learning**: Out-of-distribution (OOD Generalization & Detection), Large Language Models (In-Context Learning, Understanding).
 - **AI for Science**: AI for Medicine (Medical Image Analysis, Machine Unlearning), AI for Biology (Enzyme Design, Protein-Petide Affinity), AI for Chemical (Catalytic Design).
 
-![My Research](/images/My%20Research.png)
+![My Research](/images/MyResearch.png)
 
 # News
 
