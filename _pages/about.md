@@ -20,6 +20,7 @@ My primary academic interest lies in:
 
 <div style="border: 1px solid #ddd; padding: 10px; height: 250px; overflow-y: scroll; background-color: #f9f9f9; border-radius: 5px; margin-bottom: 20px">
   <ul style="list-style-type: none; padding-left: 0;">
+    <li style="margin-bottom: 10px;">2024/05/31: One paper accepted to IJCV.</li>
     <li style="margin-bottom: 10px;">2024/03/05: One paper accepted to ICLR 2024 Workshop ME-FoMo.</li>
     <li style="margin-bottom: 10px;">2024/02/27: One paper accepted to CVPR 2024.</li>
     <li style="margin-bottom: 10px;">2023/12/13: Exciting news: A preliminary investigation on the robustness of GPT-4V on distribution shifts has been released and is now featured by AK on the ‘Daily Papers’ page.</li>
