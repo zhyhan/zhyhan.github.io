@@ -44,6 +44,10 @@ author_profile: true
 </div>
 
 <div style="margin-bottom: 20px;">
+  Rundong He, <span style="font-weight: bold; color: #0056b3;">Zhongyi Han</span><sup>*</sup>, Xiushan Nie, Yilong Yin, Xiaojun Chang, "Visual Out-of-Distribution Detection in Open-Set Noisy Environments." <em><strong>International Journal of Computer Vision</strong> (IJCV)</em>, 2024
+</div>
+
+<div style="margin-bottom: 20px;">
   Rundong He, <span style="font-weight: bold; color: #0056b3;">Zhongyi Han</span><sup>*</sup>, Xiankai Lu, Yilong Yin, "SAFER-STUDENT for Safe Deep Semi-Supervised Learning with Unseen-Class Unlabeled Data." <em><strong>IEEE Transactions on Knowledge and Data Engineering</strong> (TKDE)</em>, 2023
 </div>
 
