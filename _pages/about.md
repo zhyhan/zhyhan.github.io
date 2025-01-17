@@ -15,6 +15,8 @@ From January 2024, I am a postdoctoral fellow at [King Abdullah University of Sc
 
 <div style="border: 1px solid #ddd; padding: 10px; height: 250px; overflow-y: scroll; background-color: #f9f9f9; border-radius: 5px; margin-bottom: 20px">
   <ul style="list-style-type: none; padding-left: 0;">
+    <li style="margin-bottom: 10px;">2025/01/15: One paper accepted to MLJ.</li>
+    <li style="margin-bottom: 10px;">2024/12/01: One paper accepted to PR.</li>
     <li style="margin-bottom: 10px;">2024/11/02: I was selected as a top reviewer for NeurIPS 2024.</li>
     <li style="margin-bottom: 10px;">2024/05/31: One paper accepted to IJCV.</li>
     <li style="margin-bottom: 10px;">2024/03/05: One paper accepted to ICLR 2024 Workshop ME-FoMo.</li>
