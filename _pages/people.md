@@ -18,7 +18,7 @@ redirect_from:
 
 <div style="margin-bottom: 20px;">
   <span style="font-weight: bold; color: #0056b3;">Wan Su</span> <span style="font-size: 0.9em; color: gray;">(co-advised with Prof. Yilong Yin)</span><br>
-  Shandong University, 2020-Present<br>
+  Shandong University>State Grid Corporation of China 2020-2025<br>
   <span style="font-weight: bold;">Ph.D. Candidate in Computer Science</span>
 </div>
 
@@ -41,12 +41,6 @@ redirect_from:
 </div>
 
 <div style="margin-bottom: 20px;">
-  <span style="font-weight: bold; color: #0056b3;">Xinyu Wang</span> <span style="font-size: 0.9em; color: gray;">(co-advised with Prof. Hui Zhang)</span><br>
-  Shandong University of Finance and Economics, 2023-Present<br>
-  <span style="font-weight: bold;">Ph.D. Candidate in Computer Science</span>
-</div>
-
-<div style="margin-bottom: 20px;">
   <span style="font-weight: bold; color: #0056b3;">Bin Wang</span> <span style="font-size: 0.9em; color: gray;">(co-advised with Prof. Benzheng Wei)</span><br>
   Shandong University of Traditional Chinese Medicine, 2023-Present<br>
   <span style="font-weight: bold;">Ph.D. Candidate in Computer Science</span>
@@ -56,13 +50,19 @@ redirect_from:
 
 <div style="margin-bottom: 20px;">
   <span style="font-weight: bold; color: #0056b3;">Yue Yuan</span> <span style="font-size: 0.9em; color: gray;">(co-advised with Prof. Yilong Yin)</span><br>
-  Shandong University, 2022-Present<br>
+  Shandong University>Sinopec, 2022-2025<br>
+  <span style="font-weight: bold;">Master Student in Computer Science</span>
+</div>
+
+<div style="margin-bottom: 20px;">
+  <span style="font-weight: bold; color: #0056b3;"> Yibing Liu</span> <span style="font-size: 0.9em; color: gray;">(co-advised with Prof. Yilong Yin)</span><br>
+  Shandong University, 2025-Present<br>
   <span style="font-weight: bold;">Master Student in Computer Science</span>
 </div>
 
 <div style="margin-bottom: 20px;">
   <span style="font-weight: bold; color: #0056b3;">Quanyu Zhang</span> <span style="font-size: 0.9em; color: gray;">(co-advised with Prof. Yilong Yin)</span><br>
-  Shandong University, 2023-Present<br>
+  Shandong University, 2024-Present<br>
   <span style="font-weight: bold;">Master Student in Computer Science</span>
 </div>
 
